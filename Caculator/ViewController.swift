@@ -1,3 +1,10 @@
+//
+//  ViewController.swift
+//  calculator1
+//
+//  Created by Cntt12 on 4/12/17.
+//  Copyright © 2017 Cntt12. All rights reserved.
+//
 
 
 import UIKit
